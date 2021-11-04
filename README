@@ -1,0 +1,5 @@
+This project demonstrates the use of the pyreadstat library against an SPSS
+dataset developed by the Pew Research Center.
+
+Utility functions combine the metadata and data harvested by pyreadstat into
+human-readable, labeled pandas Series and crosstab objects.
